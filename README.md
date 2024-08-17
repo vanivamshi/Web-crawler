@@ -1,6 +1,6 @@
 # Web-crawler
 
-An improvised version of fthe code given in https://www.zenrows.com/blog/web-crawler-python#what-is-a-web-crawler-in-python.
+An improvised version of the code given in https://www.zenrows.com/blog/web-crawler-python#what-is-a-web-crawler-in-python.
 
 Improvised to include,
 1) Multi-threading - to speed up the crawling process
